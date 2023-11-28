@@ -19,9 +19,6 @@ WS23 - Arrays
 
 2. Die Methode ```irgendeinString.toCharArray()``` gibt als Rückgabewert einen ```String``` als ```char[]``` aus. Versucht eine Methode ```void reverse(String string)``` zu schreiben, die einen ```String``` in umgekehrter Reihenfolge in der Konsole ausgibt. ( Aus "Java" wird "avaJ")
 
--------------------------------------------------------
-
-  ℹ️ Tipp: Mit ```Arrays.toString(irgendeinArray)``` lässt sich ein schöner ```String``` des Arrays erzeugen den man in der Konsole ausgeben kann
 
 
 
