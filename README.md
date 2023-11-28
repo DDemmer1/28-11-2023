@@ -1,7 +1,7 @@
 # 28-11-2023
 WS23 - Arrays
 
-Übungsaufgabe vom 17.11.2022 für die Studierenden des Java I Seminars der Universität zu Köln
+Übungsaufgabe vom 28.11.2023 für die Studierenden des Java I Seminars der Universität zu Köln
 
 ### 📝 Aufgabe:
 
